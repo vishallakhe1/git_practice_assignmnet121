@@ -6,7 +6,7 @@ function checkprime(num){
             count++;
         }
     }
-    if(count==1)
+    if(count==2)
     {
         return true;
     }
